@@ -197,6 +197,14 @@ img{
     margin: 30px;
 }
 
+iframe{
+    padding: 0;
+    border-style:dotted;
+    border-color: black;
+    border-width: 2px;
+    margin: 30px;
+}
+
 
 .quote{
     margin: 20px;
